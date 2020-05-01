@@ -3,3 +3,6 @@
 build
 .idea
 cmake-build-*
+*.exe
+*.obj
+*.ilk
